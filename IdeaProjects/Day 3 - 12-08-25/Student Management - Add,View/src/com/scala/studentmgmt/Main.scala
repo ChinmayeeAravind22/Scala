@@ -12,10 +12,7 @@ object Main {
           |--- Student Management Menu ---
           |1. Add Student
           |2. View All Students
-          |3. Update Student
-          |4. Search Student
-          |5. Delete Student
-          |6. Exit
+          |0. Exit
           |""".stripMargin)
 
       print("Enter your choice: ")
@@ -24,10 +21,7 @@ object Main {
       choice match {
         case 1 => StudentService.addStudent()
         case 2 => StudentService.viewStudents()
-        case 3 => StudentService.updateStudent()
-        case 4 => StudentService.searchStudent()
-        case 5 => StudentService.deleteStudent()
-        case 6 =>
+        case 0 =>
           continue = false
           println("Exiting... Goodbye!")
         case _ => println("Invalid choice. Try again.")
