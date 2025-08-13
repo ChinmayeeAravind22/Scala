@@ -1,7 +1,7 @@
 package com.scala.StudentManagement
 
   import scala.io.StdIn._
-
+//update,delete
   object Main {
     def main(args: Array[String]): Unit = {
       var continue = true
