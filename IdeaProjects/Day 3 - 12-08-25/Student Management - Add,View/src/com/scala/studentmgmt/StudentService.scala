@@ -29,11 +29,11 @@ object StudentService {
 
 
   def viewStudents(): Unit = {
-    println("\n--- All Students ---")
+    println("\n------ All Students ------")
     for (s <- students) {
       println(s)
     }
   }
 
-  
+
 }
