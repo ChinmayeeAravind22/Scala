@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dedc5147-ec22-4a2c-ac89-6d461757bc08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/Addition.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/AnonymousFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/ConsoleInputOutput.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/CurriedFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/EvenOdd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/Factorial.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/ForLoop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/FunctionWithDefaultParameter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/FunctionWithParameter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/FunctionWithReturnType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/Hello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/HigherOrderFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/LargestOfThree.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/NestedLoop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/PureFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/RecursiveFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/SimpleCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/SimpleFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/UserInput.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/WhileLoop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Abstraction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Constructor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Encapsulation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Inheritence.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/MainApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/MethodOverloading.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/MethodOverriding.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/PersonStudent.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Polymorphism.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Traits.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/com/scala/studentmgmt/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/com/scala/studentmgmt/Student.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/com/scala/studentmgmt/StudentService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/main.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ChinmayeeAravind22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ChinmayeeAravind22/Scala.git",
+    "accountId": "82fd7aa9-2f91-4c89-9399-2e17fe73d893"
+  }
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="31DQ0hv6pxHFIARe7uxD96Ezo24" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Addition.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "features",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Scala/IdeaProjects/Day 1 - 08-08-25/Functional Programming/src/com/scala/basics",
+    "onboarding.tips.debug.path": "D:/Scala/IdeaProjects/Day 1 - 08-08-25/Functional Programming/src/main.scala"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Scala\IdeaProjects\Day 1 - 08-08-25\Functional Programming\src\com\scala\basics" />
+    </key>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dedc5147-ec22-4a2c-ac89-6d461757bc08" name="Changes" comment="" />
+      <created>1755055941976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755055941976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main.scala</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
