@@ -5,45 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dedc5147-ec22-4a2c-ac89-6d461757bc08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/Addition.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/AnonymousFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/ConsoleInputOutput.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/CurriedFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/EvenOdd.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/Factorial.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/ForLoop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/FunctionWithDefaultParameter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/FunctionWithParameter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/FunctionWithReturnType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/Hello.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/HigherOrderFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/LargestOfThree.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/NestedLoop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/PureFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/RecursiveFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/SimpleCalculator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/SimpleFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/UserInput.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scala/basics/WhileLoop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Abstraction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Constructor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Encapsulation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Inheritence.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/MainApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/MethodOverloading.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/MethodOverriding.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/PersonStudent.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Polymorphism.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 2 - 11-08-25/Object Oriented Programming/src/com/scala/oops/Traits.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/com/scala/studentmgmt/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/com/scala/studentmgmt/Student.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/com/scala/studentmgmt/StudentService.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management Project/src/main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 4 - 13-08-25/Student Management/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 4 - 13-08-25/Student Management/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 4 - 13-08-25/Student Management/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 4 - 13-08-25/Student Management/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +17,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ChinmayeeAravind22"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ChinmayeeAravind22&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ChinmayeeAravind22/Scala.git",
-    "accountId": "82fd7aa9-2f91-4c89-9399-2e17fe73d893"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ChinmayeeAravind22/Scala.git&quot;,
+    &quot;accountId&quot;: &quot;82fd7aa9-2f91-4c89-9399-2e17fe73d893&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="31DQ0hv6pxHFIARe7uxD96Ezo24" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -82,12 +48,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Addition.executor": "Run",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "features",
+    "git-widget-placeholder": "feature",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Scala/IdeaProjects/Day 1 - 08-08-25/Functional Programming/src/com/scala/basics",
+    "last_opened_file_path": "D:/Scala/IdeaProjects/Day 3 - 12-08-25",
     "onboarding.tips.debug.path": "D:/Scala/IdeaProjects/Day 1 - 08-08-25/Functional Programming/src/main.scala"
   }
 }]]></component>
