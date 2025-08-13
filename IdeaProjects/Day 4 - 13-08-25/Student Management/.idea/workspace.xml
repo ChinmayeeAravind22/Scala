@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="601779f8-15a1-4b7d-a98d-8eed81865e0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/Student Managenent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Main.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Student$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Student.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/StudentService$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/StudentService.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main$package$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main$package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main$package.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/com/scala/studentmgmt/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/com/scala/studentmgmt/Student.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/com/scala/studentmgmt/StudentService.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/main.scala" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="31DyBcUtPkMOlXwM7E2Kkob6g3H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Scala/IdeaProjects/Day 4 - 13-08-25/Student Management&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Scala/IdeaProjects/Day 4 - 13-08-25/Student Management/src/main.scala&quot;
+  }
+}</component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="601779f8-15a1-4b7d-a98d-8eed81865e0d" name="Changes" comment="" />
+      <created>1755072804314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755072804314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main.scala</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

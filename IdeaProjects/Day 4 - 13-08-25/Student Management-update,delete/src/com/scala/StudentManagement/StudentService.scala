@@ -1,4 +1,4 @@
-package com.scala.studentmgmt
+package com.scala.StudentManagement
 
 import scala.collection.mutable.ListBuffer
 import scala.io.StdIn._
