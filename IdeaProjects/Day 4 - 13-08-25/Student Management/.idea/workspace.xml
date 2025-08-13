@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="601779f8-15a1-4b7d-a98d-8eed81865e0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/Student Managenent.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Main$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Main.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Student$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/Student.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/StudentService$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/com/scala/studentmgmt/StudentService.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main$package$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main$package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main$package.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/out/production/Student Managenent/main.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/com/scala/studentmgmt/Main.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/com/scala/studentmgmt/Student.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/com/scala/studentmgmt/StudentService.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Managenent/src/main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management - Add,View/out/production/Student Management/com/scala/studentmgmt/StudentService$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management - Add,View/out/production/Student Management/com/scala/studentmgmt/StudentService$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management - Add,View/out/production/Student Management/com/scala/studentmgmt/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management - Add,View/out/production/Student Management/com/scala/studentmgmt/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management - Add,View/out/production/Student Management/com/scala/studentmgmt/StudentService.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 3 - 12-08-25/Student Management - Add,View/out/production/Student Management/com/scala/studentmgmt/StudentService.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
